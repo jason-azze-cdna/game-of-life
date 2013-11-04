@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain;
-
+//just adding a comment. I don't want the build to fail yet p.28
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
