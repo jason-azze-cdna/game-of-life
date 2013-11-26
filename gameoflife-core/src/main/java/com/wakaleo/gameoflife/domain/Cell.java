@@ -1,3 +1,5 @@
+/** I think I'm adding a documentation comment. */
+/* I think I'm adding a regular comment. */
 package com.wakaleo.gameoflife.domain;
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
